@@ -1,9 +1,9 @@
 {
-  "name": "knockstrap",
-  "version": "1.4.0",
-  "description": "Knockout bindings to Twitter Bootstrap 3 widgets",
+  "name": "knockstrapplus",
+  "version": "4.0.0",
+  "description": "Knockout Bindings for Bootstrap 4",
   "main": "build/knockstrap.js",
-  "homepage": "http://faulknercs.github.io/Knockstrap/",
+  "homepage": "http://cloudnimble.github.io/KnockstrapPlus/",
   "ignore": [
     "src",
 	"examples",
@@ -26,11 +26,11 @@
 	"library",
 	"templates"
   ],
-  "author": "Artem Stepanyuk",
+  "author": "Robert McLaws, Artem Stepanyuk",
   "license": "MIT",
   "dependencies": {
     "jquery": ">=1.9.0",
-    "knockout": ">=2.3.0",
-    "bootstrap": "~3"
+    "knockout": ">=3.0.0",
+    "bootstrap": "~4"
   }
 }

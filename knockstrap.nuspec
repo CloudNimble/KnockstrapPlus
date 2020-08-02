@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package >
     <metadata>
-        <id>Knockstrap</id>
-        <version>1.4.0</version>
-        <authors>Artyom Stepanyuk</authors>
-        <owners>Artyom Stepanyuk</owners>
+        <id>KnockstrapPlus</id>
+        <version>4.0.0</version>
+        <authors>Robert McLaws, Artyom Stepanyuk</authors>
+        <owners>CloudNimble</owners>
         <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
-        <projectUrl>http://faulknercs.github.io/Knockstrap/</projectUrl>
+        <projectUrl>http://cloudnimble.github.io/KnockstrapPlus/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Knockout bindings to Twitter Bootstrap 3</description>
+        <description>Knockout Bindings for Bootstrap 4</description>
         <releaseNotes>-</releaseNotes>
-        <copyright>Copyright 2014</copyright>
+        <copyright>Copyright © 2014-2020</copyright>
         <tags>knockout bootstrap knockstrap custom bindings library templates</tags>
         <dependencies>
-            <dependency id="knockoutjs" version="2.3.0" />
+            <dependency id="knockoutjs" version="3.0.0" />
             <dependency id="jQuery" version="1.9.0" />
         </dependencies>
     </metadata>

@@ -1,3 +1,5 @@
+.vs
+.grunt
 node_modules
 src
 temp

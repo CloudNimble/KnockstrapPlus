@@ -1,9 +1,9 @@
-Knockstrap [![Build Status](https://travis-ci.org/faulknercs/Knockstrap.svg?branch=master)](https://travis-ci.org/faulknercs/Knockstrap)
+KnockstrapPlus [![Build Status](https://travis-ci.org/faulknercs/Knockstrap.svg?branch=master)](https://travis-ci.org/faulknercs/Knockstrap)
 ==========
 
 ### Description
 
-Knockstrap is binding library for Knockout.js, which provides bindings to Twitter Bootstrap widgets
+KnockstrapPlus is a Bootstrap 4.x binding library for Knockout.js
 
 #### Supported widgets:
 
@@ -19,19 +19,19 @@ Knockstrap is binding library for Knockout.js, which provides bindings to Twitte
 - Pagination
 - Pager
 
-[Download](https://github.com/faulknercs/Knockstrap/releases/download/v1.3.2/knockstrap-1.3.2.zip)
+[Download](https://github.com/cloudnimble/KnockstrapPlus/releases/download/v4.0.0/knockstrap-4.0.0.zip)
 
-[Documentation/Examples](http://faulknercs.github.io/Knockstrap/)
+[Documentation/Examples](http://cloudnimble.github.io/KnockstrapPlus/)
 
 ### Dependencies
 
-- jQuery (Any compatible with Bootstrap 3 version)
-- Twitter Bootstrap 3 (CSS and JavaScript)
-- Knockout.js (>=2.3.0)
+- jQuery (Any version compatible with Bootstrap 4)
+- Twitter Bootstrap 4 (CSS and JavaScript)
+- Knockout.js (>=3.0.0)
 
 ### Packages
 
-[NuGet](http://www.nuget.org/packages/Knockstrap/) | [Bower](http://bower.io/search/?q=knockstrap) | [npm](https://www.npmjs.org/package/knockstrap)
+[NuGet](http://www.nuget.org/packages/KnockstrapPlus/) | [Bower](http://bower.io/search/?q=knockstrapplus) | [npm](https://www.npmjs.org/package/knockstrapplus)
 
 ### Building
 #### Building using grunt:

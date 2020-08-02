@@ -1,4 +1,7 @@
+.vs
+.grunt
 node_modules
 temp
 build
 examples
+_SpecRunner.html

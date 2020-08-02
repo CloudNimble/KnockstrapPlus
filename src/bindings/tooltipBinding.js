@@ -4,7 +4,7 @@
 
         ko.utils.domNodeDisposal.addDisposeCallback(element, function () {
             if ($element.data('bs.tooltip')) {
-                $element.tooltip('destroy');
+                $element.tooltip('dispose');
             }
         });
     },
